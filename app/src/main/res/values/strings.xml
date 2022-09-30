@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Github\'s</string>
+    <string name="username">Username</string>
+    <string name="search_hint">Cari User</string>
+    <string name="name_card">Name</string>
+    <string name="company_card">Company</string>
+    <string name="location">Location</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="angka">0</string>
+    <string name="hint">Cari User</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="username_card">Username</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daftar_favorite">Daftar Favorite</string>
+    <string name="Nama_">Nama :</string>
+    <string name="Username_">Username :</string>
+    <string name="Company_">Company :</string>
+    <string name="Lokasi_">Lokasi :</string>
+    <string name="Repositori_">Repositori :</string>
+    <string name="Follower_">Follower :</string>
+    <string name="Following_">Following :</string>
+
+    <string name="title_alert">WARNING</string>
+    <string name="message_alert_hapus">Apakah Anda Yakin Ingin Menghapus ?</string>
+    <string name="button_positive">IYA</string>
+    <string name="button_negative">TIDAK</string>
+
+    <string name="title_toast">SUKSES</string>
+    <string name="message_toast_add">Ditambhkan Ke Favorite</string>
+    <string name="message_toast_delete">Dihapus Dari Favorite</string>
+
+    <string name="text_splash">Github\'S</string>
+
+</resources>

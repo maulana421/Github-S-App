@@ -1,0 +1,1 @@
+package com.example.githubs.room.entityimport android.os.Parcelableimport androidx.room.Entityimport androidx.room.PrimaryKeyimport kotlinx.android.parcel.Parcelize@Parcelize@Entity(tableName = "favorite")data class UsersFavorite(    @PrimaryKey    val id: Int,    val username: String,    val avatar: String) : Parcelable
